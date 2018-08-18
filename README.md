@@ -1,2 +1,2 @@
 # vwhope.github.io
-My personal website
+Vicki W. Hope - personal website
