@@ -161,7 +161,9 @@ li {
     clear: both;
        
    }
-
+   a {
+    color: #87a8c9;
+    }
   
 .footer {
     border-top: 5px solid #87a8c9;
